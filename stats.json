@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-f5566df27204c4d36c66.js",
+      "component---src-layouts-index-jsx-f5566df27204c4d36c66.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---index": [
+      "path---index-506195c16823ff066195.js",
+      "path---index-506195c16823ff066195.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-9226c086a5da92b8673e.js",
+      "component---src-pages-about-jsx-9226c086a5da92b8673e.js.map"
+    ],
+    "path---my-sample-post": [
+      "path---my-sample-post-b6085f27f1379afe5155.js",
+      "path---my-sample-post-b6085f27f1379afe5155.js.map"
+    ],
+    "commons": [
+      "commons-f1873a4f7ee992bae8f1.js",
+      "build-js-styles.css",
+      "commons-f1873a4f7ee992bae8f1.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-926ae4cebfe18c0a04be.js",
+      "component---src-templates-post-jsx-926ae4cebfe18c0a04be.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-7f139ae6ce55fe2cdf5e.js",
+      "component---src-pages-index-jsx-7f139ae6ce55fe2cdf5e.js.map"
+    ],
+    "app": [
+      "app-f2d62a05f6b5b6ad61ef.js",
+      "build-js-styles.css",
+      "app-f2d62a05f6b5b6ad61ef.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https:///alex-bezek.github.ioblog/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/jsx-vx-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/creating-react-router-links-from-a-cms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/generating-data-for-consistent-metrics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/linking-to-local-images-in-gatsby-frontmatter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/trying-something-new</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/mssql-server-linux-docker-errors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/testing-your-markdown-in-gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/problems-passing-custom-classes-to-components</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/problems-using-css-variables-defining-a-root-in-a-ui-library</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https:///alex-bezek.github.ioblog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/jsx-vx-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/creating-react-router-links-from-a-cms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/generating-data-for-consistent-metrics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/linking-to-local-images-in-gatsby-frontmatter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/trying-something-new</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/mssql-server-linux-docker-errors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/testing-your-markdown-in-gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/problems-passing-custom-classes-to-components</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/problems-using-css-variables-defining-a-root-in-a-ui-library</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:///alex-bezek.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

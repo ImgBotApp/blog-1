@@ -1,0 +1,2 @@
+webpackJsonp([0x32bc23b7df775a00],{"./node_modules/json-loader/index.js!./.cache/json/testing-your-markdown-in-gatsby.json":function(t,a){t.exports={data:{markdownRemark:{html:"",timeToRead:1,excerpt:"",frontmatter:{title:"Testing your markdown in gatsby",date:"10/08/2017",category:"Gatsby",tags:["GraphQl","Gatsby"]},fields:{slug:"testing-your-markdown-in-gatsby"}}},pathContext:{slug:"testing-your-markdown-in-gatsby"}}}});
+//# sourceMappingURL=path---testing-your-markdown-in-gatsby-88bbcabe3dc77dd38a38.js.map

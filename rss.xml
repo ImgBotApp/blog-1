@@ -1,407 +1,244 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Bezek's Blog]]></title><description><![CDATA[A software blog by Alex Bezek]]></description><link>https:///alex-bezek.github.ioblog</link><image><url>https:///alex-bezek.github.ioblog/logos/logo-512.png</url><title>Alex Bezek&apos;s Blog</title><link>https:///alex-bezek.github.ioblog</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Wed, 30 Aug 2017 02:40:05 GMT</lastBuildDate><atom:link href="https:///alex-bezek.github.ioblog/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Alex Bezek]]></author><copyright><![CDATA[Copyright © 2017. Alex Bezek]]></copyright><item><title><![CDATA[Bold Mage Test]]></title><description><![CDATA[Quanto et ius coniunctis urbes Sedisti civiliter Lorem  markdownum  Ixione palus  semper peritura barbaque  in aureus
-obliquum erigitur...]]></description><link>https:///alex-bezek.github.ioblogmy-sample-post</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogmy-sample-post</guid><category><![CDATA[programming]]></category><category><![CDATA[stuff]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sun, 01 Jan 2017 06:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;quanto-et-ius-coniunctis-urbes&quot;&gt;&lt;a href=&quot;#quanto-et-ius-coniunctis-urbes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Quanto et ius coniunctis urbes&lt;/h1&gt;
-&lt;h2 id=&quot;sedisti-civiliter&quot;&gt;&lt;a href=&quot;#sedisti-civiliter&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sedisti civiliter&lt;/h2&gt;
-&lt;p&gt;Lorem &lt;strong&gt;markdownum&lt;/strong&gt; Ixione palus &lt;strong&gt;semper peritura barbaque&lt;/strong&gt; in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-&lt;em&gt;Talibus ausis&lt;/em&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;tyrios-inquit&quot;&gt;&lt;a href=&quot;#tyrios-inquit&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tyrios inquit&lt;/h2&gt;
-&lt;p&gt;Os inquit pensa sidereus: membra nomen superi magicaeque nympha ire &lt;a href=&quot;http://vulnere-riget.com/&quot;&gt;aevum tuus
-et&lt;/a&gt; quid gladios, tuta. Pectore femina candida
-aptumque auras dum!&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fuit Lucifer quorum, pone saepius videt: magnum suam? Videbit sit cepimus,
-igne timidi nec appellat sine in. Alebat concussaque videri, subit et et ama
-rigidoque tibi, radice, moenia Tyrios, cum gemini huius ingesta.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;vultusque-subsequitur-pallas-regis-datis-inde-animaque&quot;&gt;&lt;a href=&quot;#vultusque-subsequitur-pallas-regis-datis-inde-animaque&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vultusque subsequitur Pallas regis datis inde animaque&lt;/h2&gt;
-&lt;p&gt;At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas &lt;strong&gt;longum&lt;/strong&gt; suorum manu ante prima &lt;strong&gt;usque&lt;/strong&gt;. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam &lt;strong&gt;fuit&lt;/strong&gt;. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Bezek's Blog]]></title><description><![CDATA[A software blog by Alex Bezek]]></description><link>https:///alex-bezek.github.ioblog</link><image><url>https:///alex-bezek.github.ioblog/logos/logo-512.png</url><title>Alex Bezek&apos;s Blog</title><link>https:///alex-bezek.github.ioblog</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Wed, 15 Nov 2017 03:42:37 GMT</lastBuildDate><atom:link href="https:///alex-bezek.github.ioblog/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Alex Bezek]]></author><copyright><![CDATA[Copyright © 2017. Alex Bezek]]></copyright><item><title><![CDATA[Jsx vs Js]]></title><description><![CDATA[For some reason, our communities as a whole often times can get heavily opinionated over certain subjects. Sometimes, this can turn into...]]></description><link>https:///alex-bezek.github.ioblogjsx-vx-js</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogjsx-vx-js</guid><category><![CDATA[react]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Tue, 17 Oct 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For some reason, our communities as a whole often times can get heavily opinionated over certain subjects. Sometimes, this can turn into huge internet flame wars, espcially it seems when there is relatively less quantifiable info to argue about, like tabs vs spaces or brackets on same line vs next. Sometimes though, it can lead to strong thoughtful debates where both sides have to do research, and you end up learning about both sides in the process.&lt;/p&gt;
+&lt;p&gt;This week at work, a topic of this sort came up. We had generated a create-react-app and were in the process of getting everything setup. First, a team member got our initial project setup using the generator, made a couple example pages, etc. From there, a different engineer (from another team helping us out) started working on our first main component.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-php&quot;&gt;&lt;code&gt;    urlLinkedin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;midi_manet &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;backsideKilobitBezel&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; ddr &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; storage_wordart_sdram&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    python&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;raw_backlink &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; rfid_load &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    kibibyte &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cdnThumbnailUri&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Engineer 1:
+Can we use .js extensions for our components?
+
+Engineer 2:
+But it is a JSX component?
+
+more comments...&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;So I&apos;m curious what the &quot;correct answer&quot; is in all this. Why one versus the other? So I start digging into github issues, pull requests, documentation and I think I can sum up the issue.&lt;/p&gt;
+&lt;p&gt;It seems the answer is that it has changed over time. Originally, back in the day, when react was new and hadn&apos;t started completely dominating our Medium daily digest feeds, Jsx was recommended. It was a new thing, so it was given new file type. The file type assisted in browsers for syntax highlighting &lt;a href=&quot;https://github.com/facebookincubator/create-react-app/issues/87#issuecomment-234627904&quot;&gt;this comment on create-react-app&apos;s issue&lt;/a&gt; goes into it a bit and also hints that this was more useful before bablel. Although I&apos;m kind of an infant in the javascript timeline, so I&apos;m not sure why, and can&apos;t find anything online about it.&lt;/p&gt;
+&lt;p&gt;You may have heard of Airbnb, but did you also know they have a pretty decent footprint in open source technologies, especially around javascript areas? One thing in particular we utilize alot is their &lt;a href=&quot;https://github.com/airbnb/javascript&quot;&gt;style guide&lt;/a&gt; which can be enforced programmatically through their presets of &lt;a href=&quot;https://eslint.org/&quot;&gt;eslint&lt;/a&gt;. One particular one is a rule that enforces the use of jsx file extensions via a &lt;a href=&quot;https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-filename-extension.md&quot;&gt;plugin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But now, things seem to have changed a bit. Facebook (the creators and owners of react) seem to have gone the direction of using the JS extension. You can see this in a number of different ways.&lt;/p&gt;
+&lt;p&gt;Create-react-app generates all js files
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8fb5acdf5a1639486dcf7d6f23538312-5333d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; &quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.87781350482315%;position: relative; width: 100%; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABgklEQVQoz4WSS0/CQBSF+xt49zFtmZbQFlMeJixM3JHoRv+CS3fuFRB8BEL80cc51wyhBGFxMp3J9Jtzz73O7ewBT88vWG62+Nj9YL5a43W+xNf3BpvtTtbFciVarT9lf6y3xTtm94+4md3BybIc3bSPKIqhdQKdJEiMiqLAeDxGWZbodrtQKkQYnpZSCr7vwzNy8rxA3C/RbrfR6XTgeZ5cUIGPLMvMQ5Gc1ev1s2o0GiInjo2zfALX9QTIl/gqQb1eT9xa0Snvc6WBU3JYis7H8FUE1zixQK31XmmaCpyrFcEWzjs0IMDQZJdeTRHqvnHpVoCTyUR+5vmxGIMV/+FZs9n8AybFNaIkgx+ElZKn06kAL+VXq9X23wYYSclBpCvAIAiQ57kAW63WPvRLcsIwkqZ4gao0hSWwyxSzOezkWaBkoGLTEL+SIfMYjUYYDAbikPtLpUvJdGV1CKQrljwcDqWbnE1C/9Pe4XH3LJAQ5sexsCPDWbRjZGeTe+Zt5/AXlBpTWtLxmu4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;create react app readme&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8fb5acdf5a1639486dcf7d6f23538312-10273.png&quot;
+        srcset=&quot;/static/8fb5acdf5a1639486dcf7d6f23538312-9b14a.png 163w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-94962.png 325w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-10273.png 650w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-2fc6f.png 975w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-a8a2c.png 1300w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-173d2.png 1950w,
+/static/8fb5acdf5a1639486dcf7d6f23538312-5333d.png 2488w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;a href=&quot;https://github.com/facebookincubator/create-react-app/#creating-an-app&quot;&gt;https://github.com/facebookincubator/create-react-app/#creating-an-app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;React tutorials specify to use a js file
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a33aee000d958cefc8d16c789881b866-b3c7e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; &quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 58.03876852907639%;position: relative; width: 100%; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACF0lEQVQoz5XRW08TQRgG4P0rKFCMlAL2gG5L6YFSBY8X/hDb2gheqBdCCWowMSZ6oTFR1Iith0CQIIddihfEa2qCdlsgEbux7bbdKcS+zm7p1hUvcJInM/N+ky8zu8z9x0/wPBbDRDSKpxMv8ezFJF7H3quib6YwPTP3X5iGw0fR0NiKQ02tOGLuhrGnHwbTcTQ2t6k6zXY0t5jQ0snCYLTAaLLCbHWgrd1G1zZ132QwaZhXkzEoHjx8hMDlIQTCVxEIDSIQvKIK0iw0eA3hGxGErw8jSGshmil5MDSk7i/RczWMLMtQvH03BQvbC2/fGdhYN9rpzapYdFgc6LA5VbWsXtdjsDfWEl8QGbuLO+P3MDo2juHR21WRmlvVmWYje5Ts5oie1pAQAkFIIZkU1DklrFMJpNNfkUoJ2EivI6nUqcQ3AWtUenML29s/dLSGlUoFkiShoChIKErfIYkbkAs5FAs/QUoZ5Gktm5ewmZWwlc3jVwX7BvPnhhAZhH5P5bZEzoNIOeySMnbLOewQETvlEkpyERKhZIJ/Da1hJiOC4+Lg+Dj45RV1za98whK3DG5pHosL0+D5RZovIM7P05zH6urnfbSGH2Y/otvph8vTD7fvNJyuk2DdPljtblhOuGDuUvToHKN//W9aw5nZOfT6zsLnP4eBCxfRN3AeTu8pOLx+ODx+dNk9B1J/siiqz9OL1/EH8xvcGazPEgkw4gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;react tutorial&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a33aee000d958cefc8d16c789881b866-10273.png&quot;
+        srcset=&quot;/static/a33aee000d958cefc8d16c789881b866-9b14a.png 163w,
+/static/a33aee000d958cefc8d16c789881b866-94962.png 325w,
+/static/a33aee000d958cefc8d16c789881b866-10273.png 650w,
+/static/a33aee000d958cefc8d16c789881b866-b3c7e.png 877w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;a href=&quot;https://reactjs.org/tutorial/tutorial.html&quot;&gt;https://reactjs.org/tutorial/tutorial.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The create react app even leaves a note in your webpack config if you eject, pointing to an issue about why they don&apos;t recommend using the jsx file extension.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-js&quot;&gt;&lt;code&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// These are the reasonable defaults supported by the Node ecosystem.&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// We also include JSX as a common component filename extension to support&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// some tools, although we do not recommend using it, see:&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// https://github.com/facebookincubator/create-react-app/issues/290&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// `web` extension prefixes have been added for better support&lt;/span&gt;
+&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;// for React Native Web.&lt;/span&gt;
+extensions&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;.web.js&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;.js&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;.json&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;.web.jsx&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;.jsx&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;h2 id=&quot;fortis-dextrae-humo-limina-tempus-singultibus-illa&quot;&gt;&lt;a href=&quot;#fortis-dextrae-humo-limina-tempus-singultibus-illa&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Fortis dextrae humo limina Tempus singultibus illa&lt;/h2&gt;
-&lt;p&gt;Nate muros orbe &lt;a href=&quot;http://debebuntilla.org/res-ego&quot;&gt;patris&lt;/a&gt; rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque &lt;a href=&quot;http://mihi-aiax.io/suaferunt.aspx&quot;&gt;repetitque&lt;/a&gt;,
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/facebookincubator/create-react-app/blob/2e82ebb3371731a5c4e346f310848ddb23fd0976/packages/react-scripts/config/webpack.config.dev.js#L89&quot;&gt;https://github.com/facebookincubator/create-react-app/blob/2e82ebb3371731a5c4e346f310848ddb23fd0976/packages/react-scripts/config/webpack.config.dev.js#L89&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So what did we decide on? Well at the end of the day, our company&apos;s javascript ecosystem as a whole had already in the past decided to utilize a wrapper around the airbnb eslint plugin. So, we chose to go with that. Being a snowflake is usually not good, we would rather align with other teams. This is afterall what a linter is for right? To squash these little arguments. Without this linter, I would probably be arguing that we should use the js extension. Facebook is the maintainer of react after all. They may build tooling or projects that only work with js out of the box in the future (probably not any time soon because jsx is so prevalent, but you get the idea).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Microsoft SQL Server Linux Docker Errors]]></title><description><![CDATA[Microsoft SQL Server in a linux based container...WHAAAAA? Thats rights. This may be old news for some, but Microsoft released a Docker...]]></description><link>https:///alex-bezek.github.ioblogmssql-server-linux-docker-errors</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogmssql-server-linux-docker-errors</guid><category><![CDATA[.Net]]></category><category><![CDATA[Microsoft]]></category><category><![CDATA[docker]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Tue, 10 Oct 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Microsoft SQL Server in a linux based container...WHAAAAA? Thats rights. This may be old news for some, but Microsoft released a Docker image that allows you to run a MSSQL in a docker on your mac (or linux based) computer. Probably small news for most people, but for our team it was kind of awesome.&lt;/p&gt;
+&lt;h4 id=&quot;background&quot;&gt;&lt;a href=&quot;#background&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Background&lt;/h4&gt;
+&lt;p&gt;My team&apos;s current project has been to create a new Rails based application on top of an existing .Net SQL server. Thankfully, rails (and its community) is awesome and implements an adapter type interface to Active Record, and a corresponding gem to implement that interface. &lt;a href=&quot;https://github.com/rails-sqlserver/activerecord-sqlserver-adapter&quot;&gt;https://github.com/rails-sqlserver/activerecord-sqlserver-adapter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So along with this idea of setting a rails service over a .Net database (cringe worthy to some I&apos;m sure), I also made the decision to make our UNIT tests hit our database... If you haven&apos;t hit &lt;code&gt;ctr + w&lt;/code&gt; to close this post yet, bear with me. I swear I had reasons...I made 30+ models, mapping to our tables, and using &lt;a href=&quot;https://github.com/thoughtbot/shoulda-matchers&quot;&gt;shoulda matchers&lt;/a&gt; (an awesome library for your model tests if you haven&apos;t tried it) which verifies all your models and their relations in memory. Boot up &lt;code&gt;rails console&lt;/code&gt;, lo and behold nothing works. So unfortunately, most of our tests have to hit our legacy DB to have much validity to them. We also have lots of untested constraints, functions, and stored procedures we want to verify.&lt;/p&gt;
+&lt;h4 id=&quot;what-we-had-to-deal-with&quot;&gt;&lt;a href=&quot;#what-we-had-to-deal-with&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What we had to deal with&lt;/h4&gt;
+&lt;p&gt;So when we build a rails service that depends on a database that can only run on windows device what happens? Well your development environment and unit test environment also depend on that environment. Not a big deal when you have 5 people working. But when that group expands you have to adapt.&lt;/p&gt;
+&lt;h4 id=&quot;what-happened&quot;&gt;&lt;a href=&quot;#what-happened&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What happened&lt;/h4&gt;
+&lt;p&gt;With this idea, we had a small man group of 5 engineers, working together, coordinating when pushes and test would happen, and over the course of 6 months our engineering team exploded into over 30+ engineers needing to contribute to this repository. Do you know what happens when someone running a test against a shared DB executes a &lt;code&gt;ctrl z&lt;/code&gt;? Well if its in the middle of a rspec unit test (which locks a table so it can roll it back for unit test purposes) it locks the table from everyone else. Needless to say, this cause lots of issues...&lt;/p&gt;
+&lt;p&gt;So we eventually knowledge transfer to everyone and explain how doing that is bad. But we still get a really annoying issue... We  have alot of associates in remote offices. If you try to run tests, they have to reach out to a remote server to do so. And they take up to 45  minutes now they say! That is just unbearable. Luckily... docker fixes it!&lt;/p&gt;
+&lt;h4 id=&quot;the-technical-part&quot;&gt;&lt;a href=&quot;#the-technical-part&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The Technical Part&lt;/h4&gt;
+&lt;p&gt;If you were googling for an answer, this part is it. To solve the shared DB issue, we found we could run a .NET Sql server locally in a docker container. Using &lt;a href=&quot;https://hub.docker.com/r/microsoft/mssql-server-linux/&quot;&gt;this docker image&lt;/a&gt; we can pretty easily configure out schema inside it using a .bak file, and run tests locally against it. It does have a specific requirement that most people don&apos;t go read before trying to run our tests.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;At least 3.25 GB of RAM. Make sure to assign enough memory to the Docker VM if you&apos;re running on Docker for Mac or Windows.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, docker is pretty new to most people on our team. More often than not, they boot the container, it fails, and people don&apos;t know why. Even if we tell them to update to use 4GB of ram, this &lt;a href=&quot;https://github.com/docker/for-mac/issues/1354&quot;&gt;github issue&lt;/a&gt; is causing people issues whenever they update their docker version. So how do you troubleshoot this?&lt;/p&gt;
+&lt;p&gt;In a quickly growing team, my motto has be &quot;teach people how to fish, don&apos;t hand them the meat&quot;. If you boot a container and it fails, you just need to know how to gather the logs from it.&lt;/p&gt;
+&lt;p&gt;First, just find the container that died. &lt;code&gt;docker ps&lt;/code&gt; shows all the running containers, but adding the flag &lt;code&gt;-a&lt;/code&gt; also shows the killed ones&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-perl&quot;&gt;&lt;code&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;lion_vdu &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vrml_upnp &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; redundancyAccessPharming&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        driveProcessor &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; floatingWord&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;commerceDockRestore&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;database&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        partition_source_thunderbolt &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; tokenStateArchive &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;
-                teraflops_gigahertz&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code&gt;docker ps -a
+cd26b6cac46a my_sqlserver:latest     &quot;/bin/sh -c /opt/m...&quot;     1 months ago Exited (1)     1 months ago SQLSERVER&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;From there you want to figure out why it died. If its a decent container (like microsoft&apos;s) the logs should tell you why. Using the &lt;code&gt;docker logs ${docker id}&lt;/code&gt; command should pinpoint the issue.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code&gt;docker logs cd26b6cac46a
+sqlservr: This program requires a machine with at least 3250 megabytes of memory.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;So there you have it. A quite long winded article involving all my team&apos;s baggage, but hopefully pinpointing some issues not specific to us. If you get anything from this, let it not be how to troubleshoot a .Net SQLSever docker container, but rather how to troubleshoot your failing containers as a whole. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Linking to local images in Gatsby frontmatter]]></title><description><![CDATA[Being stuck on an issue in a technology or concept you are brand new to can be paralyzing. You hardly know enough to figure out how to...]]></description><link>https:///alex-bezek.github.iobloglinking-to-local-images-in-gatsby-frontmatter</link><guid isPermaLink="false">https:///alex-bezek.github.iobloglinking-to-local-images-in-gatsby-frontmatter</guid><category><![CDATA[GraphQl]]></category><category><![CDATA[Gatsby]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sun, 08 Oct 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Being stuck on an issue in a technology or concept you are brand new to can be paralyzing. You hardly know enough to figure out how to google the issue. Even if you do have a good search, the answer could be sitting right in front of your face, and often times you don&apos;t even know it. If it’s not a critical blocking issue, you may try to push it off till later and progress with your work. For me though, its always a nagging issue in the back of my head. I will try to do other work, but the perfectionist in me keeps me coming back the problem day after day. Eventually with much persitence (and alot of luck) the solution dawns on you. Regardless of if it was a crazy strange issue, or a simple misunderstanding of the tech, you get an immdediate sense of accomplishment for solving the issue. I think its what drives us in our field. To solve problems and get that leveling up factor. Down the road, when you are much more familiar with the topic, its fun to retrospect on how silly it was you couldn&apos;t figure it out and how easy it would be to solve that issue now.&lt;/p&gt;
+&lt;p&gt;I&apos;ve started this brand-new blog using a relatively new framework called &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;. If you make any static react based apps (probably using create-react-app) and find yourself trying to dynamically create pages with sets of data, I highly recomend trying it out. Even if you just have a set of react pages created, it automatically can handle all of the fancy config for things like react-router, service workers, statically generating html files, and optimial asset loading. One of the primary ways of using it is to create a set of markdown files and use GraphQl to generate the data to create a blog post for each. If you are familiar with jekyll or other static site generators, it has similar functionality to where you can define a set of meta data for each post in your markdown&apos;s frontmatter to use in your blog post template.&lt;/p&gt;
+&lt;p&gt;So i followed the tutorials and docs, getting a basic site with a handful of template posts working. I setup a bunch of random ideas of future posts without any content, but filling out the frontmatter so I could work on the UI for the front page in a more realistic state for the future. In the process, I got a bunch of posts with frontmatter following the examples online much like this.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-yaml&quot;&gt;&lt;code&gt;&lt;span class=&quot;token key atrule&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Linking to local images in Gatsby frontmatter&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;https://i.ytimg.com/vi/dmgcUbz8gq8/maxresdefault.jpg&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;10/08/2017&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;category&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Gatsby&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; GraphQl
+  &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; Gatsby
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Gatsby allows you to use GraphQl to query your markdown files for data, passing that data into react components to dynamically create pages. Using a copy paste query from the tutorials, i was able to get my pages loading and using the image url as my image source&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-graphql&quot;&gt;&lt;code&gt;&lt;span class=&quot;token keyword&quot;&gt;query&lt;/span&gt; IndexQuery &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    edges &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      node &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        fields &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+          slug
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        frontmatter &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+          title
+          tags
+          date
+          image
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    exabytePhpMacintosh &lt;span class=&quot;token operator&quot;&gt;-=&lt;/span&gt; graphic_cycle&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;expression&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; memory&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ideFatMatrix&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-            controlInboxMode&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    buffer_apple_hdmi &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; viralSync &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; internetDigital &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; tweak_perl_expansion&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-            masterNullFloating &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vdu&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; software_play&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;h2 id=&quot;nati-expugnacior-nympha-milia-nascuntur-amico&quot;&gt;&lt;a href=&quot;#nati-expugnacior-nympha-milia-nascuntur-amico&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nati expugnacior nympha milia nascuntur amico&lt;/h2&gt;
-&lt;p&gt;Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.&lt;/p&gt;
-&lt;p&gt;Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.&lt;/p&gt;
-&lt;h1 id=&quot;note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot;&gt;&lt;a href=&quot;#note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOTE: This &quot;post&quot; is based on &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; and is meant to test styling of Markdown generated documents.&lt;/h1&gt;
-&lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;John Gruber&apos;s original spec&lt;/a&gt; and the &lt;a href=&quot;http://github.github.com/github-flavored-markdown/&quot;&gt;Github-flavored Markdown info page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This cheatsheet is specifically &lt;em&gt;Markdown Here&apos;s&lt;/em&gt; version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a &lt;em&gt;Markdown Here&lt;/em&gt; email, but it should be pretty close.&lt;/p&gt;
-&lt;p&gt;You can play around with Markdown on our &lt;a href=&quot;http://www.markdown-here.com/livedemo.html&quot;&gt;live demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(If you&apos;re not a Markdown Here user, check out the &lt;a href=&quot;./Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; that is not specific to MDH. But, really, you should also use Markdown Here, because it&apos;s awesome. &lt;a href=&quot;http://markdown-here.com&quot;&gt;http://markdown-here.com&lt;/a&gt;)&lt;/p&gt;
-&lt;h5 id=&quot;table-of-contents&quot;&gt;&lt;a href=&quot;#table-of-contents&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Table of Contents&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;#headers&quot;&gt;Headers&lt;/a&gt;
-&lt;a href=&quot;#emphasis&quot;&gt;Emphasis&lt;/a&gt;
-&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;
-&lt;a href=&quot;#links&quot;&gt;Links&lt;/a&gt;
-&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;
-&lt;a href=&quot;#code&quot;&gt;Code and Syntax Highlighting&lt;/a&gt;
-&lt;a href=&quot;#tables&quot;&gt;Tables&lt;/a&gt;
-&lt;a href=&quot;#blockquotes&quot;&gt;Blockquotes&lt;/a&gt;
-&lt;a href=&quot;#html&quot;&gt;Inline HTML&lt;/a&gt;
-&lt;a href=&quot;#hr&quot;&gt;Horizontal Rule&lt;/a&gt;
-&lt;a href=&quot;#lines&quot;&gt;Line Breaks&lt;/a&gt;
-&lt;a href=&quot;#videos&quot;&gt;YouTube Videos&lt;/a&gt;&lt;/p&gt;
-&lt;a name=&quot;headers&quot;/&gt;
-&lt;h2 id=&quot;headers&quot;&gt;&lt;a href=&quot;#headers&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Headers&lt;/h2&gt;
+&lt;p&gt;Everything was running smoothly and working great! But Gatsby is all about performance and optimization. One area it has great support for is optimizing image loading. Via some plugins that use the &lt;a href=&quot;https://github.com/lovell/sharp&quot;&gt;sharp processing library&lt;/a&gt; it can do some cool things like optimized caching techniques, support for creating the optimal size image for the screen resolution, and the &lt;a href=&quot;https://css-tricks.com/the-blur-up-technique-for-loading-background-images/&quot;&gt;blur up technique&lt;/a&gt;. None of these works when pulling an image from a URL client side, so instead I need to download it, process it with Gatsby, and serve it myself. Sure thing! There are plenty of examples for that. So, I set off to take one of my posts and try this out, downloading the file locally, and changing the frontmatter to&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;h1 id=&quot;h1&quot;&gt;&lt;a href=&quot;#h1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H1&lt;/h1&gt;
-&lt;h2 id=&quot;h2&quot;&gt;&lt;a href=&quot;#h2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H2&lt;/h2&gt;
-&lt;h3 id=&quot;h3&quot;&gt;&lt;a href=&quot;#h3&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H3&lt;/h3&gt;
-&lt;h4 id=&quot;h4&quot;&gt;&lt;a href=&quot;#h4&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H4&lt;/h4&gt;
-&lt;h5 id=&quot;h5&quot;&gt;&lt;a href=&quot;#h5&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H5&lt;/h5&gt;
-&lt;h6 id=&quot;h6&quot;&gt;&lt;a href=&quot;#h6&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H6&lt;/h6&gt;
-&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
-&lt;h1 id=&quot;alt-h1&quot;&gt;&lt;a href=&quot;#alt-h1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alt-H1&lt;/h1&gt;
-&lt;h2 id=&quot;alt-h2&quot;&gt;&lt;a href=&quot;#alt-h2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alt-H2&lt;/h2&gt;
-&lt;a name=&quot;emphasis&quot;/&gt;
-&lt;h2 id=&quot;emphasis&quot;&gt;&lt;a href=&quot;#emphasis&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Emphasis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
-&lt;a name=&quot;lists&quot;/&gt;
-&lt;h2 id=&quot;lists&quot;&gt;&lt;a href=&quot;#lists&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lists&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;1. First ordered list item
-2. Another item
-  * Unordered sub-list.
-1. Actual numbers don&apos;t matter, just that it&apos;s a number
-  1. Ordered sub-list
-4. And another item.
-
-   Some text that should be aligned with the above item.
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;First ordered list item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Another item&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Unordered sub-list.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Actual numbers don&apos;t matter, just that it&apos;s a number&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Ordered sub-list&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;And another item.&lt;/p&gt;
-&lt;p&gt;Some text that should be aligned with the above item.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Unordered list can use asterisks&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Or minuses&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Or pluses&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;a name=&quot;links&quot;/&gt;
-&lt;h2 id=&quot;links&quot;&gt;&lt;a href=&quot;#links&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Links&lt;/h2&gt;
-&lt;p&gt;There are two ways to create links.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;[I&apos;m an inline-style link](https://www.google.com)
-
-[I&apos;m a reference-style link][Arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself]
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or &lt;http://www.example.com&gt; and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I&apos;m an inline-style link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I&apos;m a reference-style link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Or leave it empty and use the &lt;a href=&quot;http://www.reddit.com&quot;&gt;link text itself&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links.
-&lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; and sometimes
-example.com (but not on Github, for example).&lt;/p&gt;
-&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
-&lt;a name=&quot;images&quot;/&gt;
-&lt;h2 id=&quot;images&quot;&gt;&lt;a href=&quot;#images&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Images&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;Here&apos;s our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 1&quot;)
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 2&quot;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Here&apos;s our logo (hover to see the title text):&lt;/p&gt;
-&lt;p&gt;Inline-style:
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Reference-style:
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 2&quot;&gt;&lt;/p&gt;
-&lt;a name=&quot;code&quot;/&gt;
-&lt;h2 id=&quot;code-and-syntax-highlighting&quot;&gt;&lt;a href=&quot;#code-and-syntax-highlighting&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code and Syntax Highlighting&lt;/h2&gt;
-&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn&apos;t. However, many renderers -- like Github&apos;s and &lt;em&gt;Markdown Here&lt;/em&gt; -- support syntax highlighting. &lt;em&gt;Markdown Here&lt;/em&gt; supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;Inline `code` has `back-ticks around` it.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt; has &lt;code&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
-&lt;p&gt;Blocks of code are either fenced by lines with three back-ticks &lt;code&gt;`&lt;code&gt;&lt;/code&gt;&lt;/code&gt;, or are indented with four spaces. I recommend only using the fenced code blocks -- they&apos;re easier and only they support syntax highlighting.&lt;/p&gt;
-&lt;pre lang=&quot;no-highlight&quot;&gt;&lt;code&gt;```javascript
-var s = &quot;JavaScript syntax highlighting&quot;;
-alert(s);
-```
-
-```python
-s = &quot;Python syntax highlighting&quot;
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let&apos;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;pre class=&quot;language-yaml&quot;&gt;&lt;code&gt;&lt;span class=&quot;token key atrule&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Linking to local images in Gatsby frontmatter&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./gatsby-site-data.jpg&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;10/08/2017&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;category&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Gatsby&quot;&lt;/span&gt;
+&lt;span class=&quot;token key atrule&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; GraphQl
+  &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; Gatsby
 &lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
+&lt;p&gt;Cool, no errors. I go back to my hot reloaded browser and see no image. Strange, lets inspect in my browser. My image source is just &quot;./gatsby-site-data.jpg&quot; without any sort of relative link to my server along with a nice 404 in my network tab. Ok, let’s go back online to some tutorial. With some research, I find that I must get the actual source to the file in my GraphQl using the sharp library&apos;s GraphQl. I so change my GraphQl to something like this.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-python&quot;&gt;&lt;code&gt;s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; s
+      &lt;pre class=&quot;language-graphql&quot;&gt;&lt;code&gt;&lt;span class=&quot;token keyword&quot;&gt;query&lt;/span&gt; IndexQuery &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  edges &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    node &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      fields &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        slug
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      frontmatter &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        title
+        tags
+        date
+        image &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+          childImageSharp &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            original &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+              src
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
+&lt;p&gt;Save, reload, and Bam! Error....&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
-But let&apos;s throw in a &lt;b&gt;tag&lt;/b&gt;.&lt;/code&gt;&lt;/pre&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;GraphQL Error Field &quot;image&quot; must not have a selection since type &quot;String&quot; has no subfields.&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;p&gt;Again, to see what languages are available for highlighting, and how to write those language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;a name=&quot;tables&quot;/&gt;
-&lt;h2 id=&quot;tables&quot;&gt;&lt;a href=&quot;#tables&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tables&lt;/h2&gt;
-&lt;p&gt;Tables aren&apos;t part of the core Markdown spec, but they are part of GFM and &lt;em&gt;Markdown Here&lt;/em&gt; supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don&apos;t need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tables&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;Are&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Cool&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;col 3 is&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;right-aligned&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$1600&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;col 2 is&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;centered&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;zebra stripes&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;are neat&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The outer pipes (|) are optional, and you don&apos;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Markdown&lt;/th&gt;
-&lt;th&gt;Less&lt;/th&gt;
-&lt;th&gt;Pretty&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;a name=&quot;blockquotes&quot;/&gt;
-&lt;h2 id=&quot;blockquotes&quot;&gt;&lt;a href=&quot;#blockquotes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blockquotes&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;&gt; Blockquotes are very handy in email to emulate reply text.
-&gt; This line is part of the same quote.
-
-Quote break.
-
-&gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let&apos;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Quote break.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&apos;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;a name=&quot;html&quot;/&gt;
-&lt;h2 id=&quot;inline-html&quot;&gt;&lt;a href=&quot;#inline-html&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Inline HTML&lt;/h2&gt;
-&lt;p&gt;You can also use raw HTML in your Markdown, and it&apos;ll mostly work pretty well.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;&lt;dl&gt;
-  &lt;dt&gt;Definition list&lt;/dt&gt;
-  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
-
-  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
-  &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
-&lt;/dl&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Definition list&lt;/dt&gt;
-  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
-  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
-  &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;a name=&quot;hr&quot;/&gt;
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;&lt;a href=&quot;#horizontal-rule&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Horizontal Rule&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Three or more...&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Hyphens&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Asterisks&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Underscores&lt;/p&gt;
-&lt;a name=&quot;lines&quot;/&gt;
-&lt;h2 id=&quot;line-breaks&quot;&gt;&lt;a href=&quot;#line-breaks&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Line Breaks&lt;/h2&gt;
-&lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover -- hit &amp;#x3C;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You&apos;ll soon learn to get what you want. &quot;Markdown Toggle&quot; is your friend.&lt;/p&gt;
-&lt;p&gt;Here are some things to try out:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;Here&apos;s a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it&apos;s a separate line in the *same paragraph*.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Here&apos;s a line for us to start with.&lt;/p&gt;
-&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;This line is also begins a separate paragraph, but...
-This line is only separated by a single newline, so it&apos;s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;(Technical note: &lt;em&gt;Markdown Here&lt;/em&gt; uses GFM line breaks, so there&apos;s no need to use MD&apos;s two-space line breaks.)&lt;/p&gt;
-&lt;a name=&quot;videos&quot;/&gt;
-&lt;h2 id=&quot;youtube-videos&quot;&gt;&lt;a href=&quot;#youtube-videos&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;YouTube Videos&lt;/h2&gt;
-&lt;p&gt;They can&apos;t be added directly but you can add an image with a link to the video like this:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;v=8AkLfYOgIrE
-&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg&quot;
-alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code&gt;[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;But... but... but... my image has subfields, it’s an image! This error is pretty clear in that the GraphQl expects a string, and as such, expects a primitive without any nested attributes like childImageSharp. At this point I spend about a week and a half looking through examples in the Gatsby repo &lt;a href=&quot;https://github.com/gatsbyjs/gatsby/tree/master/examples&quot;&gt;here&lt;/a&gt; and looking through the linked example sites on their readme. I even message the discord channel trying to figure out what happened. No luck...&lt;/p&gt;
+&lt;p&gt;Eventually, I let it go. The images are still being pulled, it still looks fine, why block my work on this one little nagging thing. So, I keep going. I work on some styling and organization of my site, but this keeps bugging me. One day, I try moving all my files to the pages directory, and just to simplify things, I delete all my posts except the one I&apos;m trying to change the image source on. All of a sudden, I&apos;m not getting that error. After adding back in the extra GraphQL I&apos;m successfully loading the file from my local instead of from the url to the original source.&lt;/p&gt;
+&lt;p&gt;So, what happened?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Testing your markdown in gatsby]]></title><link>https:///alex-bezek.github.ioblogtesting-your-markdown-in-gatsby</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogtesting-your-markdown-in-gatsby</guid><category><![CDATA[GraphQl]]></category><category><![CDATA[Gatsby]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sun, 08 Oct 2017 05:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Creating React Router Links From A Cms]]></title><description><![CDATA[Cool new project]]></description><link>https:///alex-bezek.github.ioblogcreating-react-router-links-from-a-cms</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogcreating-react-router-links-from-a-cms</guid><category><![CDATA[react]]></category><category><![CDATA[react-router]]></category><category><![CDATA[cms]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Thu, 28 Sep 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Cool new project&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Generating data for consistent performance metrics]]></title><description><![CDATA[Its actually easy]]></description><link>https:///alex-bezek.github.iobloggenerating-data-for-consistent-metrics</link><guid isPermaLink="false">https:///alex-bezek.github.iobloggenerating-data-for-consistent-metrics</guid><category><![CDATA[docker]]></category><category><![CDATA[react]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sat, 09 Sep 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Its actually easy&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Trying Something New]]></title><description><![CDATA[Why not start all the new things at once right? In programming, we all know its obviously best to change multiple variables, edit every file...]]></description><link>https:///alex-bezek.github.ioblogtrying-something-new</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogtrying-something-new</guid><category><![CDATA[drawing]]></category><category><![CDATA[design]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sat, 09 Sep 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why not start all the new things at once right? In programming, we all know its obviously best to change multiple variables, edit every file, and then run your program after hours of coding and pray it works. What could go wrong?&lt;/p&gt;
+&lt;p&gt;I love programming because I get to try a new thing on every project, if not every day: new technologies, new ways of solving problems, even shifting to completely new paradigms from devops deployments to front end pattern libraries. Its given me the confidence to think that with enough research, practice, and dedication, one can pickup and understand most problem areas. But, so far, I have only ever really attempted this in the programming field. At work we have a saying, &quot;Get out of your comfort zone&quot;. Doing so forces you to learn and adapt.&lt;/p&gt;
+&lt;p&gt;For years, I have always thought of myself as uncreative and a poor writer. I have always just accepted these as shortcomings. But, recently I wanted to start writing a blog. I want something to document my work thoughts, save ideas from current projects, and have somewhere to look back at what I have done. But this involves writing!!! How could I do that? Luckily I don&apos;t have to worry about the design and creativity involved in building a website right? I can use a theme from bootstrap, or have someone help design the site. But the idea of having to maintain and expand upon it in the future, or for other projects to create brand new designs has instigated the idea that I could learn some mediocre design principles. If you google &quot;How to learn design&quot; you end up seeing a lot of articles saying to learn how to draw. So I figured, let&apos;s start there.&lt;/p&gt;
+&lt;p&gt;My girlfriend is a hobby artist and luckily has a fancy bamboo drawing board I can borrow. So I spent my first night getting it setup and trying out some basics. I haven&apos;t drawn in years. I have pretty much only ever drawn during a couple classes in high school and elementary school. So I started with something simple. She recommended just drawing squares. Just a bunch of them. Different sizes, colors, etc. They were shaky, but gave me some understanding of how it worked.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3a24568033874d9d3b93a2945b74b256-d4a27.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; &quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 96.9951923076923%;position: relative; width: 100%; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABYlAAAWJQFJUiTwAAAC9UlEQVQ4y51U6c6jOBCc93+8lXZ2NceXhFwQwPjAt01NhXwbGM2/RepYke1ydXV1f8H/+JZlwVIqFpu2cHnd+/L86WPBlAqGYJDLhBAlhCyQuq5xGTIGW95xlhlWRNguwLavMI3bAL97gUYKnO8PpPGO2DYrkDEeShq0vcJsNdSsMBkDYTSccr+xdqZugNLeMA6n92aVDoWPFNut6a1pFo+S9AagJjhNZrcMfWE0u5SX6FCHYQc4I4sDsrqg6BtkslA5YowGS42oUSHHEdn7950sdwxLNyEfe9Qbgc8dygeBugZ2HqD1HXN9HRbujkqWKygZZyeRhIIXlECEDbCq+k51+Xy1jg9or6B5+T/AMVyQYoMYr2u41MK7E0y4IS5hlefF8JoJUFAavp7SetkOEy7aojEO7ZzxoRN6L9HbAXVJKHWGKxKB6xAKbK4bYHKVAAVd7KHGC4zq8M18/FbFVpd1NdRxJbEDbFk8k+Ydw7RAzx6iKhge6HKHj3DdGRm46VcVbQorw1w1PM/7alAKWRe9aZjDgjhXqIkGJ9PMC3d/hQwTRieYpsDVjNTwBhEEQY+Y0wEqnchyQEoNQcUG+Ez5CRjDk+lLXJHvf7ScjD+YaiA7h1BGpPxAniUq7y5+2dnG05jtS4NJBdrD4uHbPwDvWWAsGV/ThIH6TWpEvVraiL0dl72xPX30ErvrCzw3j6OGDp6CG9ycYkgcvF4t1MoBxpKhotE1PSkyB0TZAGfmr+wD36XEzWb8y8avny03fB5cK00tA1lWOa3Z1AdXEwnmsYS4Abqi1j/n1K9rYxJGAp1mg5OKb8CerJ7VfAKuxTxQ067l6KLufgdoWCnLsXVMNG4p+Cuy5Sj8k+UpDHi4Dh2jdwfY8A1xOr8A+yMqq+7UgBDmXevZiiI465pEbSr+EePGitUuS0Si3+LTyKyue3xlqhrp8jd1/ImJktlqd0WhXZ79bAgqFDuGc/DCi3eylkzxaZW6UPilfE5rrrW+R9v++wWiTMViI4WRHgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Squares&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3a24568033874d9d3b93a2945b74b256-10273.png&quot;
+        srcset=&quot;/static/3a24568033874d9d3b93a2945b74b256-9b14a.png 163w,
+/static/3a24568033874d9d3b93a2945b74b256-94962.png 325w,
+/static/3a24568033874d9d3b93a2945b74b256-10273.png 650w,
+/static/3a24568033874d9d3b93a2945b74b256-2fc6f.png 975w,
+/static/3a24568033874d9d3b93a2945b74b256-a8a2c.png 1300w,
+/static/3a24568033874d9d3b93a2945b74b256-d4a27.png 1664w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;A piece of art right! Lol, not really. Shaky lines, mostly non 90 degree angles, crossing lines, etc... Overall definitely not a piece of art. But it was interesting to do! Its probably pretty similar to this writing piece. Writing, drawing and design, why not stumble into both of them clumsily at the same time? It could be fun, or it could end up with this being the last post about drawing you see. Why not go try something new?!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Problems Passing Custom Classes To Components]]></title><description><![CDATA[You get weird issues]]></description><link>https:///alex-bezek.github.ioblogproblems-passing-custom-classes-to-components</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogproblems-passing-custom-classes-to-components</guid><category><![CDATA[react]]></category><category><![CDATA[css]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sat, 09 Sep 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You get weird issues&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Problems using css variables defining a root in a UI library]]></title><description><![CDATA[Cool new project]]></description><link>https:///alex-bezek.github.ioblogproblems-using-css-variables-defining-a-root-in-a-ui-library</link><guid isPermaLink="false">https:///alex-bezek.github.ioblogproblems-using-css-variables-defining-a-root-in-a-ui-library</guid><category><![CDATA[aws]]></category><category><![CDATA[lambda]]></category><category><![CDATA[assets]]></category><dc:creator><![CDATA[Alex Bezek]]></dc:creator><pubDate>Sat, 09 Sep 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Cool new project&lt;/p&gt;</content:encoded></item></channel></rss>
